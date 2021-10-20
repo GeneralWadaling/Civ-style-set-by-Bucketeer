@@ -1,4 +1,5 @@
 # Civ-style-set-by-Bucketeer
+A Unciv unit sprite mod.
 Right now, this mod added unit sprites of the following styles:
 
 East Asian
