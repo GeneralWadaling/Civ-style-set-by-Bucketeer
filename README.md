@@ -1,34 +1,23 @@
 # Civ-style-set-by-Bucketeer
 A Unciv unit sprite mod.
 Right now, this mod added unit sprites of the following styles:
+East Asian,
+Middle Eastern,
+Mediterranean,
+Barbarians,
+South American,
+North American,
+Oceania,
+Germanic,
+Nordic,
+African
 
-East Asian
-
-Middle Eastern
-
-Mediterranean
-
-Barbarians
-
-South American
-
-North American
-
-Oceania 
-
-Germanic
-
-Nordic
 
 
 
 And here are the planned styles:
-
-Slavic
-
+Slavic,
 South Asian
-
-African
 
 
 
