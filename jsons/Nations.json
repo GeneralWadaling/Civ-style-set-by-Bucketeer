@@ -26,7 +26,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing ¡V to make this deal with me.",
+		"tradeRequest": "It appears that you do have a reason for existing Â¡V to make this deal with me.",
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
@@ -121,7 +121,7 @@
 		"innerColor": [98,10,210],
 		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
-		"uniques": ["+[20]% Production when constructing [Wonders]"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -661,7 +661,7 @@
 
 		"declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
-		"defeated": "How did you darken the sun? I ruled with diligence and mercy¡Xsee that you do so as well.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercyÂ¡Xsee that you do so as well.",
 		"introduction": "How are you? You stand before Pachacuti Inca Yupanqui.",
 
 		"neutralHello": "How are you doing?",
@@ -900,14 +900,14 @@
 		"afterPeace": "Well played, fellow warrior.",
 
 		"neutralHello": "God has given good to you.",
-		"neutralLetsHearIt": ["We are all ears¡K","We are all ears¡K","Forward."],
+		"neutralLetsHearIt": ["We are all earsÂ¡K","We are all earsÂ¡K","Forward."],
 		"neutralNo": ["We must decline.","No.","We refuse."],
 		"neutralYes": ["Okay.","Sure, it shall be so.","Accepted."],
 
 		"hateHello": "Well?",
 		"hateLetsHearIt": ["Forward! Before I change my mind!","And?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
-		"hateYes": ["Eugh! Fine then¡K","Disgusting! Okay then¡K","But if I have to¡K"],
+		"hateYes": ["Eugh! Fine thenÂ¡K","Disgusting! Okay thenÂ¡K","But if I have toÂ¡K"],
 
 		"outerColor": [12,75,25],
 		"innerColor": [157,172,255],
@@ -987,7 +987,7 @@
 		"hateHello": "You.",
 		"hateLetsHearIt": ["Talk.","So?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
-		"hateYes": ["Oh¡K Fine, okay."],
+		"hateYes": ["OhÂ¡K Fine, okay."],
 */
 		"outerColor": [198,141,99], // color picker: cf9f75
 		"innerColor": [24,63,66], // color picker: 1f4a4d
