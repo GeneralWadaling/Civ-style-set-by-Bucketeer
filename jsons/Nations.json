@@ -26,7 +26,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing ¡V to make this deal with me.",
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
@@ -63,7 +63,7 @@
 		"innerColor": [68,142,249],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Hellenic League",
-		"uniques": ["City-State Influence degrades [50]% slower", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
@@ -172,8 +172,8 @@
 		"outerColor": [ 38, 98, 255],
 		"innerColor": [239,236,148],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Ancien R?gime",
-		"uniques": ["[+2 Culture] per turn from cities before [Steam Power]"],
+		"uniqueName": "Ancien Régime",
+		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
@@ -228,7 +228,7 @@
 		"innerColor": [238,201,9],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Glory of Rome",
-		"uniques": ["+25% Production towards any buildings that already exist in the Capital"],
+		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital"],
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
@@ -279,7 +279,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Manifest Destiny",
-		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "-[50]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -361,13 +361,13 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment",
-			"[-25]% maintenance costs for [Land] units"],
-		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","D?sseldorf","Bremen",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
-			"M?nster","Rostock","Chemnitz","Braunschweig","Halle","M?nchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
-			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbr?cken","Krefeld","Pirmasens","Potsdam","Solingen",
-			"Osnabr?ck","Ludwigshafen","Leverkusen","Oldenburg","Neuss","M?lheim","Darmstadt","Herne","W?rzburg",
-			"Recklinghausen","G?ttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
 	},
 
 	{
@@ -391,10 +391,10 @@
 		"innerColor": [18,84,30],
 		"favoredReligion": "Islam",
 		"uniqueName": "Barbary Corsairs",
-		"uniques": ["[-66]% maintenance costs for [Water] units",
+		"uniques": ["[-66]% maintenance costs <for [Water] units>",
 			"50% chance of capturing defeated Barbarian naval units and earning 25 Gold"],
-		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbak?r","Izmir","Kayseri","Malatya",
-			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Mu?la","Eski?ehir","Inebolu","Sinop","Adana","Artvin",
+		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
+			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
 			"Bitlis","Yalova"]
 	},
@@ -473,7 +473,7 @@
 		"innerColor": [244,232,54],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Achaemenid Legacy",
-		"uniques": ["Golden Age length increased by [50]%", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
+		"uniques": ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
 		"cities": ["Persepolis","Parsagadae","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
 			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Shiraz",
 			"Thuspa","Hasanlu","Gabae","Merv","Behistun","Kandahar","Altintepe","Bunyan","Charsadda","Uratyube",
@@ -544,7 +544,7 @@
 		"preferredVictoryType": "Domination",
 		"style": "Mediterranean",
 
-		"startIntroPart1": "Blessed Isabella, servant of God, holy queen of Castille and Le?n! Your people greet and welcome you. You are the ruler of Spain, a beautiful and ancient country at the crossroads of the world between Europe and Africa, one shore on the Mediterranean and the other on the mighty Atlantic Ocean. The Spanish are a multicultural people with roots in the Muslim and Christian worlds. A seafaring race, Spanish explorers found and conquered much of the New World, and, for many centuries, its gold and silver brought Spain unrivalled wealth and power, making the Spanish court the envy of the world.",
+		"startIntroPart1": "Blessed Isabella, servant of God, holy queen of Castille and León! Your people greet and welcome you. You are the ruler of Spain, a beautiful and ancient country at the crossroads of the world between Europe and Africa, one shore on the Mediterranean and the other on the mighty Atlantic Ocean. The Spanish are a multicultural people with roots in the Muslim and Christian worlds. A seafaring race, Spanish explorers found and conquered much of the New World, and, for many centuries, its gold and silver brought Spain unrivalled wealth and power, making the Spanish court the envy of the world.",
 		"startIntroPart2": "O fair and virtuous Isabella! Will you rebuild the Spanish empire and show the world again the greatness of your people? Will you take up the mantle of the holy monarchy, and vanquish your foes under heaven's watchful eyes? Your adoring subjects await your command! Will you build a civilization that stands the test of time?",
 		"declaringWar": "God will probably forgive you... but I shall not. Prepare for war.",
 		"attacked": "Repugnant spawn of the devil! You will pay!",
@@ -560,9 +560,9 @@
 		"uniques": ["100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
 			"Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
-			"Vitoria","Santander","Oviedo","Jaen","Logro?o","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
-			"Lugo","Alicante","C?diz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coru?a","Guadalquivir","Bilbao",
-			"San Sebastian","Granada","M?rida","Huelva","Ibiza","Las Palmas","Tenerife"]
+			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
+			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
+			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"]
 	},
 	{
 		"name": "Songhai",
@@ -659,30 +659,35 @@
 		"startIntroPart1": "Oh ye who remakes the world, your loyal subjects greet you, King Pachacuti Sapa Inca, ruler of Tawantinsuyu and the Inca people! From the beginnings in the small state of Cusco, the Incans displayed their potential for greatness, marching to war against their many enemies, crushing their armies into dust and carving for themselves a mighty empire stretching from Ecuador to Chile. Indeed, they built the greatest empire ever seen in pre-Columbian America. More than mere soldiers, your people were great builders and artists as well, and the remnants of their works still awe and inspire the world today.",
 		"startIntroPart2": "Oh King Pachacuti, truly are you called 'Earth Shaker'! Will you once again call upon the ground itself to a fight at your side? Your armies await your signal. Will you restore the glory of your empire? Can you build a civilization that will stand the test of time?",
 
+
 		"declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
-		"defeated": "How did you darken the sun? I ruled with diligence and mercy¡Xsee that you do so as well.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
 		"introduction": "How are you? You stand before Pachacuti Inca Yupanqui.",
+
 
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
+
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 
+
 		"afterPeace": "Viracocha has frowned upon our war, and has agreed to our peace agreements.",
 		"tradeRequest": "The Incan people offer this fair trade.",
+
 
 		"outerColor": [255,184,33],
 		"innerColor": [3,115,86],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Great Andean Road",
 		"uniques": ["Units ignore terrain costs when moving into any tile with Hills",
-			"Maintenance on roads & railroads reduced by [50]%",
+			"[-50]% maintenance on road & railroads",
 			"No Maintenance costs for improvements in [Hill] tiles"],
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
@@ -711,7 +716,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Viking Fury",
 		"uniques": ["[+1] Movement <for [Embarked] units>", "Units pay only 1 movement point to disembark",
-			"Melee units pay no movement cost to pillage"], 
+			"No movement cost to pillage <for [Melee] units>"],
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsberg","Roskilde","Hedeby","Oslo","Jelling","Truso",
 			"Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
 			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
@@ -726,8 +731,8 @@
 		"preferredVictorType": "Domination",
 		"style": "East Asian",
 
-		"startIntroPart1": "Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people. ",
-		"startIntroPart2": "Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will you mount your steadfast steed and lead your armies to victory? Will you build a civilization that stands the test of time? ",
+		"startIntroPart1": "Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.",
+		"startIntroPart2": "Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will you mount your steadfast steed and lead your armies to victory? Will you build a civilization that stands the test of time?",
 		"declaringWar": "I grow tired of this throne. I think I should like to have yours instead.",
 		"defeated": "My people will mourn me not with tears, but with human blood.",
 		"attacked": "Now what is this?! You ask me to add your riches to my great avails. The invitation is accepted.",
@@ -790,11 +795,11 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Nobel Prize",
 		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
-		"cities": ["Stockholm","Uppsala","Gothenburg","Malm?","Link?ping","Kalmar","Skara","V?ster?s","J?nk?ping",
-		"Visby","Falun","Norrk?ping","G?vle","Halmstad","Karlskrona","Hudiksvall","?rebro","Ume?","Karlstad",
-		"Helsingborg","H?rn?sand","Vadstena","Lund","V?stervik","Enk?ping","Sk?vde","Eskilstuna","Lule?","Lidk?ping",
-		"S?dert?lje","Mariestad","?stersund","Bor?s","Sundsvall","Vimmerby","K?ping","Mora","Arboga","V?xj?","Gr?nna",
-		"Kiruna","Borgholm","Str?ngn?s","Sveg"]
+		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
+		"Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
+		"Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
+		"Södertälje","Mariestad","Östersund","Borås","Sundsvall","Vimmerby","Köping","Mora","Arboga","Växjö","Gränna",
+		"Kiruna","Borgholm","Strängnäs","Sveg"]
 	},
 	{
 		"name": "Austria",
@@ -819,8 +824,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Diplomatic Marriage",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
-		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzb?hel",
-			"St. P?lten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
+		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
+			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
 			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"
 		]
@@ -866,11 +871,11 @@
 		"startIntroPart2": "Beautiful Empress, Byzantium is in need of your wisdom and strength - her people are lost without your light to lead them. The Byzantine Empire may have fallen once, but its spirit is still intact waiting to be reborn anew. Can you return Byzantium to the heights of glory it once enjoyed? Can you create a civilization to stand the test of time?",
 
 		"declaringWar": "It is always a shame to destroy a thing of beauty. Happily, you are not one.",
-		"attacked": "Now darling, tantrums are most unbecoming.  I shall have to teach you a lesson.",
-		"defeated": "Like a child playing with toys you are.  My people will never love you, nor suffer this indignation gracefully.",
+		"attacked": "Now darling, tantrums are most unbecoming. I shall have to teach you a lesson.",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
 		"introduction": "My, isn't this a pleasant surprise - what may I call you, oh mysterious stranger? I am Theodora, beloved of Byzantium.",
 		"neutralHello": "Hello again.",
-		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions.  Show me.",
+		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
 		"outerColor": [114, 162, 233],
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
@@ -900,14 +905,14 @@
 		"afterPeace": "Well played, fellow warrior.",
 
 		"neutralHello": "God has given good to you.",
-		"neutralLetsHearIt": ["We are all ears¡K","We are all ears¡K","Forward."],
+		"neutralLetsHearIt": ["We are all ears…","We are all ears…","Forward."],
 		"neutralNo": ["We must decline.","No.","We refuse."],
 		"neutralYes": ["Okay.","Sure, it shall be so.","Accepted."],
 
 		"hateHello": "Well?",
 		"hateLetsHearIt": ["Forward! Before I change my mind!","And?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
-		"hateYes": ["Eugh! Fine then¡K","Disgusting! Okay then¡K","But if I have to¡K"],
+		"hateYes": ["Eugh! Fine then…","Disgusting! Okay then…","But if I have to…"],
 
 		"outerColor": [12,75,25],
 		"innerColor": [157,172,255],
@@ -987,7 +992,7 @@
 		"hateHello": "You.",
 		"hateLetsHearIt": ["Talk.","So?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
-		"hateYes": ["Oh¡K Fine, okay."],
+		"hateYes": ["Oh… Fine, okay."],
 */
 		"outerColor": [198,141,99], // color picker: cf9f75
 		"innerColor": [24,63,66], // color picker: 1f4a4d
@@ -1097,7 +1102,7 @@
 	},
 	{
 		"name": "Quebec City",
-		"adjective": ["Qu?b?cois"],
+		"adjective": ["Québécois"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
