@@ -15,7 +15,7 @@ African
 
 
 
-And here are the planned styles:
+And here are the upcoming styles:
 Slavic,
 South Asian
 
