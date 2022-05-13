@@ -217,7 +217,7 @@
 
 		"startIntroPart1": "The blessings of the gods be upon you, Caesar Augustus, emperor of Rome and all her holdings. Your empire was the greatest and longest lived of all in Western civilization. And your people single-handedly shaped its culture, law, art, and warfare like none other, before or since. Through years of glorious conquest, Rome came to dominate all the lands of the Mediterranean from Spain in the west to Syria in the east. And her dominion would eventually expand to cover much of England and northern Germany. Roman art and architecture still awe and inspire the world. And she remains the envy of all lesser civilizations who have followed.",
 		"startIntroPart2": "O mighty emperor, your people turn to you to once more reclaim the glory of Rome! Will you see to it that your empire rises again, bringing peace and order to all? Will you make Rome once again center of the world? Can you build a civilization that will stand the test of time?",
-		"declaringWar": "My treasury contains little and my soldiers are getting impatient... <sigh> ...therefore you must die.",
+		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
 		"attacked": "So brave, yet so stupid! If only you had a brain similar to your courage.",
 		"defeated": "The gods have deprived Rome of their favour. We have been defeated.",
 		"introduction": "I greet you. I am Augustus, Imperator and Pontifex Maximus of Rome. If you are a friend of Rome, you are welcome.",
@@ -308,7 +308,7 @@
 		"innerColor": [185,0,0],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bushido",
-		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>"],
+		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
@@ -326,7 +326,7 @@
 		"startIntroPart2": "Gandhi, your people look to you to lead them to even greater heights of glory! Can you help your people realize their great potential, to once again become the world's center of arts, culture and religion? Can you build a civilization that will stand the test of time?",
 		"declaringWar": "I have just received a report that large numbers of my troops have crossed your borders.",
 		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
-		"defeated": "You can chain me, you can torture me, you can even destroy this body, but you will never imprison my mind. ",
+		"defeated": "You can chain me, you can torture me, you can even destroy this body, but you will never imprison my mind.",
 		"introduction": "Hello, I am Mohandas Gandhi. My people call me Bapu, but please, call me friend.",
 		"neutralHello": "I wish you peace.",
 		"hateHello": "What do you want?",
@@ -393,8 +393,8 @@
 		"uniqueName": "Barbary Corsairs",
 		"uniques": ["[-66]% maintenance costs <for [Water] units>",
 			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"],
-		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
-			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Mu?�la","Eski?�ehir","Inebolu","Sinop","Adana","Artvin",
+"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
+			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
 			"Bitlis","Yalova"]
 	},
@@ -561,7 +561,7 @@
 			"Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
-			"Lugo","Alicante","C?�diz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
+			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
 			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"]
 	},
 	{
@@ -585,7 +585,7 @@
 		"innerColor": [90,0,10],
 		"favoredReligion": "Islam",
 		"uniqueName": "River Warlord",
-		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>"],
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[Land] units gain the [Amphibious] promotion"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]
@@ -662,7 +662,7 @@
 
 		"declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
-		"defeated": "How did you darken the sun? I ruled with diligence and mercy?�see that you do so as well.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy - see that you do so as well.",
 		"introduction": "How are you? You stand before Pachacuti Inca Yupanqui.",
 
 
@@ -796,9 +796,9 @@
 		"uniqueName": "Nobel Prize",
 		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
 		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
-		"Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","?�rebro","Umeå","Karlstad",
+		"Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
 		"Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
-		"Södertälje","Mariestad","?�stersund","Borås","Sundsvall","Vimmerby","Köping","Mora","Arboga","Växjö","Gränna",
+		"Södertälje","Mariestad","Östersund","Borås","Sundsvall","Vimmerby","Köping","Mora","Arboga","Växjö","Gränna",
 		"Kiruna","Borgholm","Strängnäs","Sveg"]
 	},
 	{
@@ -905,14 +905,14 @@
 		"afterPeace": "Well played, fellow warrior.",
 
 		"neutralHello": "God has given good to you.",
-		"neutralLetsHearIt": ["We are all ears??","We are all ears??","Forward."],
+		"neutralLetsHearIt": ["We are all ears...","We are all ears...","Forward."],
 		"neutralNo": ["We must decline.","No.","We refuse."],
 		"neutralYes": ["Okay.","Sure, it shall be so.","Accepted."],
 
 		"hateHello": "Well?",
 		"hateLetsHearIt": ["Forward! Before I change my mind!","And?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
-		"hateYes": ["Eugh! Fine then??","Disgusting! Okay then??","But if I have to??"],
+		"hateYes": ["Eugh! Fine then...","Disgusting! Okay then...","But if I have to..."],
 
 		"outerColor": [12,75,25],
 		"innerColor": [157,172,255],
@@ -992,7 +992,7 @@
 		"hateHello": "You.",
 		"hateLetsHearIt": ["Talk.","So?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
-		"hateYes": ["Oh?? Fine, okay."],
+		"hateYes": ["Oh... Fine, okay."],
 */
 		"outerColor": [198,141,99], // color picker: cf9f75
 		"innerColor": [24,63,66], // color picker: 1f4a4d
