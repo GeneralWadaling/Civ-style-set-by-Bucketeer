@@ -330,6 +330,7 @@
     },
 	{
 		"name": "India",
+		"style": "South Asian",
 		"leaderName": "Gandhi",
 		"adjective": ["Indian"],
 		"startBias": ["Grassland"],
@@ -531,6 +532,7 @@
     },
 	{
 		"name": "Siam",
+		"style": "South Asian",
 		"leaderName": "Ramkhamhaeng",
 		"adjective": ["Siamese"],
 		"startBias": ["Avoid [Forest]"],
