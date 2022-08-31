@@ -1,4975 +1,5269 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/African Forest Elephant
   rotate: false
-  xy: 4, 479
+  xy: 4, 981
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun
   rotate: false
-  xy: 4, 443
+  xy: 4, 945
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-African
   rotate: false
-  xy: 44, 480
+  xy: 44, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Barbarians
   rotate: false
-  xy: 4, 407
+  xy: 4, 909
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-East Asian
   rotate: false
-  xy: 44, 444
+  xy: 44, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Germanic
   rotate: false
-  xy: 84, 480
+  xy: 84, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Mediterranean
   rotate: false
-  xy: 4, 371
+  xy: 4, 873
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Mesopotamian
   rotate: false
-  xy: 44, 408
+  xy: 44, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Middle Eastern
   rotate: false
-  xy: 84, 444
+  xy: 84, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Nordic
   rotate: false
-  xy: 124, 480
+  xy: 124, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-North American
   rotate: false
-  xy: 4, 335
+  xy: 4, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Oceania
   rotate: false
-  xy: 44, 372
+  xy: 44, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Slavic
   rotate: false
-  xy: 84, 408
+  xy: 84, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-South American
   rotate: false
-  xy: 124, 444
+  xy: 124, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun
   rotate: false
-  xy: 164, 480
+  xy: 164, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Barbarians
   rotate: false
-  xy: 4, 299
+  xy: 4, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-East Asian
   rotate: false
-  xy: 44, 336
+  xy: 44, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Germanic
   rotate: false
-  xy: 84, 372
+  xy: 84, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Mediterranean
   rotate: false
-  xy: 124, 408
+  xy: 124, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Mesopotamian
   rotate: false
-  xy: 164, 444
+  xy: 164, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Middle Eastern
   rotate: false
-  xy: 204, 480
+  xy: 204, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Nordic
   rotate: false
-  xy: 4, 263
+  xy: 4, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-North American
   rotate: false
-  xy: 44, 300
+  xy: 44, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Oceania
   rotate: false
-  xy: 84, 336
+  xy: 84, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Slavic
   rotate: false
-  xy: 124, 372
+  xy: 124, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-South American
   rotate: false
-  xy: 164, 408
+  xy: 164, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist
   rotate: false
-  xy: 204, 444
+  xy: 204, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-African
   rotate: false
-  xy: 244, 480
+  xy: 244, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-East Asian
   rotate: false
-  xy: 4, 227
+  xy: 4, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Germanic
   rotate: false
-  xy: 44, 264
+  xy: 44, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Mediterranean
   rotate: false
-  xy: 84, 300
+  xy: 84, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Mesopotamian
   rotate: false
-  xy: 124, 336
+  xy: 124, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Middle Eastern
   rotate: false
-  xy: 164, 372
+  xy: 164, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Nordic
   rotate: false
-  xy: 204, 408
+  xy: 204, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-North American
   rotate: false
-  xy: 244, 444
+  xy: 244, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Oceania
   rotate: false
-  xy: 284, 480
+  xy: 284, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-South American
   rotate: false
-  xy: 4, 191
+  xy: 4, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer
   rotate: false
-  xy: 44, 228
+  xy: 44, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-African
   rotate: false
-  xy: 84, 264
+  xy: 84, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Barbarians
   rotate: false
-  xy: 124, 300
+  xy: 124, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-East Asian
   rotate: false
-  xy: 164, 336
+  xy: 164, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Germanic
   rotate: false
-  xy: 204, 372
+  xy: 204, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Mediterranean
   rotate: false
-  xy: 244, 408
+  xy: 244, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Mesopotamian
   rotate: false
-  xy: 284, 444
+  xy: 284, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Middle Eastern
   rotate: false
-  xy: 324, 480
+  xy: 324, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Nordic
   rotate: false
-  xy: 4, 155
+  xy: 4, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-North American
   rotate: false
-  xy: 44, 192
+  xy: 44, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Oceania
   rotate: false
-  xy: 84, 228
+  xy: 84, 730
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archer-Slavic
+  rotate: false
+  xy: 124, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-South American
   rotate: false
-  xy: 124, 264
+  xy: 164, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery
   rotate: false
-  xy: 164, 300
+  xy: 204, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-African
   rotate: false
-  xy: 204, 336
+  xy: 244, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Barbarians
   rotate: false
-  xy: 244, 372
+  xy: 284, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-East Asian
   rotate: false
-  xy: 284, 408
+  xy: 324, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Germanic
   rotate: false
-  xy: 324, 444
+  xy: 364, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Mediterranean
   rotate: false
-  xy: 364, 480
+  xy: 4, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Mesopotamian
   rotate: false
-  xy: 4, 119
+  xy: 44, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Middle Eastern
   rotate: false
-  xy: 44, 156
+  xy: 84, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Nordic
   rotate: false
-  xy: 84, 192
+  xy: 124, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-North American
   rotate: false
-  xy: 124, 228
+  xy: 164, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Oceania
   rotate: false
-  xy: 164, 264
+  xy: 204, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Slavic
   rotate: false
-  xy: 204, 300
+  xy: 244, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-South American
   rotate: false
-  xy: 244, 336
+  xy: 284, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Atlatlist
   rotate: false
-  xy: 284, 372
+  xy: 324, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ballista
   rotate: false
-  xy: 324, 408
+  xy: 364, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Battering Ram
   rotate: false
-  xy: 364, 444
+  xy: 404, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Battleship
   rotate: false
-  xy: 404, 480
+  xy: 4, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka
   rotate: false
-  xy: 4, 83
+  xy: 44, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-African
   rotate: false
-  xy: 44, 120
+  xy: 84, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Barbarians
   rotate: false
-  xy: 84, 156
+  xy: 124, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-East Asian
   rotate: false
-  xy: 124, 192
+  xy: 164, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Germanic
   rotate: false
-  xy: 164, 228
+  xy: 204, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Mediterranean
   rotate: false
-  xy: 204, 264
+  xy: 244, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Mesopotamian
   rotate: false
-  xy: 244, 300
+  xy: 284, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Middle Eastern
   rotate: false
-  xy: 284, 336
+  xy: 324, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Nordic
   rotate: false
-  xy: 324, 372
+  xy: 364, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-North American
   rotate: false
-  xy: 364, 408
+  xy: 404, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Oceania
   rotate: false
-  xy: 404, 444
+  xy: 444, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Slavic
   rotate: false
-  xy: 444, 480
+  xy: 4, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-South American
   rotate: false
-  xy: 4, 47
+  xy: 44, 586
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Berber Cavalry
   rotate: false
-  xy: 44, 84
+  xy: 84, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Berserker
   rotate: false
-  xy: 84, 120
+  xy: 124, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bowman
   rotate: false
-  xy: 124, 156
+  xy: 164, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Brute
   rotate: false
-  xy: 164, 192
+  xy: 204, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Camel Archer
   rotate: false
-  xy: 204, 227
+  xy: 244, 765
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cannon
   rotate: false
-  xy: 244, 264
+  xy: 284, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan
   rotate: false
-  xy: 284, 299
+  xy: 324, 837
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-African
   rotate: false
-  xy: 324, 335
+  xy: 364, 873
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-East Asian
   rotate: false
-  xy: 364, 371
+  xy: 404, 909
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-Germanic
   rotate: false
-  xy: 404, 407
+  xy: 444, 945
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-Mediterranean
   rotate: false
-  xy: 444, 443
+  xy: 484, 981
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-Mesopotamian
   rotate: false
-  xy: 484, 479
+  xy: 4, 512
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-Middle Eastern
   rotate: false
-  xy: 4, 10
+  xy: 44, 549
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-Nordic
   rotate: false
-  xy: 44, 47
+  xy: 84, 585
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-North American
   rotate: false
-  xy: 84, 83
+  xy: 124, 621
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-Oceania
   rotate: false
-  xy: 124, 119
+  xy: 164, 657
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-South American
   rotate: false
-  xy: 164, 155
+  xy: 204, 693
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel
   rotate: false
-  xy: 204, 191
+  xy: 244, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-African
   rotate: false
-  xy: 244, 228
+  xy: 284, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Barbarians
   rotate: false
-  xy: 284, 263
+  xy: 324, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-East Asian
   rotate: false
-  xy: 324, 299
+  xy: 364, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Germanic
   rotate: false
-  xy: 364, 335
+  xy: 404, 873
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Mediterranean
   rotate: false
-  xy: 404, 371
+  xy: 444, 909
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Mesopotamian
   rotate: false
-  xy: 444, 407
+  xy: 484, 945
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Middle Eastern
   rotate: false
-  xy: 484, 443
+  xy: 524, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Nordic
   rotate: false
-  xy: 524, 480
+  xy: 4, 476
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-North American
   rotate: false
-  xy: 44, 11
+  xy: 44, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Oceania
   rotate: false
-  xy: 84, 47
+  xy: 84, 549
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Caravel-Slavic
+  rotate: false
+  xy: 124, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-South American
   rotate: false
-  xy: 124, 83
+  xy: 164, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship
   rotate: false
-  xy: 164, 119
+  xy: 204, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-African
   rotate: false
-  xy: 204, 155
+  xy: 244, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-East Asian
   rotate: false
-  xy: 244, 192
+  xy: 284, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-Germanic
   rotate: false
-  xy: 284, 227
+  xy: 324, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-Mediterranean
   rotate: false
-  xy: 324, 263
+  xy: 364, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-Mesopotamian
   rotate: false
-  xy: 364, 299
+  xy: 404, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-Middle Eastern
   rotate: false
-  xy: 404, 335
+  xy: 444, 873
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-Nordic
   rotate: false
-  xy: 444, 371
+  xy: 484, 909
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-North American
   rotate: false
-  xy: 484, 407
+  xy: 524, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-Oceania
   rotate: false
-  xy: 524, 444
+  xy: 564, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-South American
   rotate: false
-  xy: 564, 480
+  xy: 4, 440
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Carolean
   rotate: false
-  xy: 84, 11
+  xy: 44, 477
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Carrier
   rotate: false
-  xy: 124, 47
+  xy: 84, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Carrier-Barbarians
   rotate: false
-  xy: 164, 83
+  xy: 124, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cataphract
   rotate: false
-  xy: 204, 119
+  xy: 164, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Catapult
   rotate: false
-  xy: 244, 156
+  xy: 204, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry
   rotate: false
-  xy: 284, 191
+  xy: 244, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-African
   rotate: false
-  xy: 324, 227
+  xy: 284, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Barbarians
   rotate: false
-  xy: 364, 263
+  xy: 324, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-East Asian
   rotate: false
-  xy: 404, 299
+  xy: 364, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Germanic
   rotate: false
-  xy: 444, 335
+  xy: 404, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Mediterranean
   rotate: false
-  xy: 484, 371
+  xy: 444, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Mesopotamian
   rotate: false
-  xy: 524, 408
+  xy: 484, 873
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Middle Eastern
   rotate: false
-  xy: 564, 444
+  xy: 524, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Nordic
   rotate: false
-  xy: 604, 480
+  xy: 564, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-North American
   rotate: false
-  xy: 244, 119
+  xy: 604, 981
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Oceania
   rotate: false
-  xy: 124, 11
+  xy: 4, 404
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cavalry-Slavic
+  rotate: false
+  xy: 44, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-South American
   rotate: false
-  xy: 164, 47
+  xy: 84, 477
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer
   rotate: false
-  xy: 204, 83
+  xy: 124, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-African
   rotate: false
-  xy: 284, 155
+  xy: 164, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Barbarians
   rotate: false
-  xy: 324, 191
+  xy: 204, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-East Asian
   rotate: false
-  xy: 364, 227
+  xy: 244, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Germanic
   rotate: false
-  xy: 404, 263
+  xy: 284, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Mediterranean
   rotate: false
-  xy: 444, 299
+  xy: 324, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Mesopotamian
   rotate: false
-  xy: 484, 335
+  xy: 364, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Middle Eastern
   rotate: false
-  xy: 524, 372
+  xy: 404, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Nordic
   rotate: false
-  xy: 564, 408
+  xy: 444, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-North American
   rotate: false
-  xy: 604, 443
+  xy: 484, 836
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Oceania
   rotate: false
-  xy: 644, 480
+  xy: 524, 874
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chariot Archer-Slavic
+  rotate: false
+  xy: 564, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-South American
   rotate: false
-  xy: 164, 11
+  xy: 604, 945
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chu-Ko-Nu
   rotate: false
-  xy: 204, 47
+  xy: 644, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Comanche Rider
   rotate: false
-  xy: 244, 82
+  xy: 4, 367
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Companion Cavalry
   rotate: false
-  xy: 284, 118
+  xy: 44, 404
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman
   rotate: false
-  xy: 324, 155
+  xy: 84, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-African
   rotate: false
-  xy: 364, 191
+  xy: 124, 477
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Barbarians
   rotate: false
-  xy: 404, 227
+  xy: 164, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-East Asian
   rotate: false
-  xy: 444, 263
+  xy: 204, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Germanic
   rotate: false
-  xy: 484, 299
+  xy: 244, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Mediterranean
   rotate: false
-  xy: 524, 336
+  xy: 284, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Mesopotamian
   rotate: false
-  xy: 564, 372
+  xy: 324, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Middle Eastern
   rotate: false
-  xy: 604, 407
+  xy: 364, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Nordic
   rotate: false
-  xy: 644, 444
+  xy: 404, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-North American
   rotate: false
-  xy: 684, 480
+  xy: 444, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Oceania
   rotate: false
-  xy: 204, 11
+  xy: 484, 800
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Bowman-Slavic
+  rotate: false
+  xy: 524, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-South American
   rotate: false
-  xy: 244, 46
+  xy: 564, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Conquistador
   rotate: false
-  xy: 284, 82
+  xy: 604, 909
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cossack
   rotate: false
-  xy: 324, 119
+  xy: 644, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman
   rotate: false
-  xy: 364, 155
+  xy: 684, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-African
   rotate: false
-  xy: 404, 191
+  xy: 4, 331
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Barbarians
   rotate: false
-  xy: 444, 227
+  xy: 44, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-East Asian
   rotate: false
-  xy: 484, 263
+  xy: 84, 405
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Germanic
   rotate: false
-  xy: 524, 300
+  xy: 124, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Mediterranean
   rotate: false
-  xy: 564, 336
+  xy: 164, 477
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Mesopotamian
   rotate: false
-  xy: 604, 371
+  xy: 204, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Middle Eastern
   rotate: false
-  xy: 644, 408
+  xy: 244, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Nordic
   rotate: false
-  xy: 684, 444
+  xy: 284, 586
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-North American
   rotate: false
-  xy: 724, 480
+  xy: 324, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Oceania
   rotate: false
-  xy: 284, 46
+  xy: 364, 657
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crossbowman-Slavic
+  rotate: false
+  xy: 404, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-South American
   rotate: false
-  xy: 324, 83
+  xy: 444, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Destroyer
   rotate: false
-  xy: 364, 119
+  xy: 484, 764
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dromon
   rotate: false
-  xy: 404, 155
+  xy: 524, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Foreign Legion
   rotate: false
-  xy: 444, 191
+  xy: 564, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate
   rotate: false
-  xy: 484, 227
+  xy: 604, 873
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-African
   rotate: false
-  xy: 524, 264
+  xy: 644, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Barbarians
   rotate: false
-  xy: 564, 300
+  xy: 684, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-East Asian
   rotate: false
-  xy: 604, 335
+  xy: 724, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Germanic
   rotate: false
-  xy: 644, 372
+  xy: 4, 295
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Mediterranean
   rotate: false
-  xy: 684, 408
+  xy: 44, 332
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Mesopotamian
   rotate: false
-  xy: 724, 444
+  xy: 84, 369
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Middle Eastern
   rotate: false
-  xy: 764, 480
+  xy: 124, 405
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Nordic
   rotate: false
-  xy: 324, 47
+  xy: 164, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-North American
   rotate: false
-  xy: 364, 83
+  xy: 204, 477
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Oceania
   rotate: false
-  xy: 404, 119
+  xy: 244, 513
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Frigate-Slavic
+  rotate: false
+  xy: 284, 550
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-South American
   rotate: false
-  xy: 444, 155
+  xy: 324, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry
   rotate: false
-  xy: 484, 191
+  xy: 364, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-African
   rotate: false
-  xy: 524, 228
+  xy: 404, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Barbarians
   rotate: false
-  xy: 564, 264
+  xy: 444, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-East Asian
   rotate: false
-  xy: 604, 299
+  xy: 484, 728
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Germanic
   rotate: false
-  xy: 644, 336
+  xy: 524, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Mediterranean
   rotate: false
-  xy: 684, 372
+  xy: 564, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Mesopotamian
   rotate: false
-  xy: 724, 408
+  xy: 604, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Middle Eastern
   rotate: false
-  xy: 764, 444
+  xy: 644, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Nordic
   rotate: false
-  xy: 804, 480
+  xy: 684, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-North American
   rotate: false
-  xy: 364, 47
+  xy: 724, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Oceania
   rotate: false
-  xy: 404, 83
+  xy: 764, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-South American
   rotate: false
-  xy: 444, 119
+  xy: 4, 259
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass
   rotate: false
-  xy: 484, 155
+  xy: 44, 296
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-African
   rotate: false
-  xy: 524, 192
+  xy: 84, 333
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Barbarians
   rotate: false
-  xy: 564, 228
+  xy: 124, 369
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-East Asian
   rotate: false
-  xy: 604, 263
+  xy: 164, 405
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Germanic
   rotate: false
-  xy: 644, 300
+  xy: 204, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Mediterranean
   rotate: false
-  xy: 684, 336
+  xy: 244, 477
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Mesopotamian
   rotate: false
-  xy: 724, 372
+  xy: 284, 514
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Middle Eastern
   rotate: false
-  xy: 764, 408
+  xy: 324, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Nordic
   rotate: false
-  xy: 804, 444
+  xy: 364, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-North American
   rotate: false
-  xy: 844, 480
+  xy: 404, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Oceania
   rotate: false
-  xy: 404, 47
+  xy: 444, 657
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Galleass-Slavic
+  rotate: false
+  xy: 484, 692
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-South American
   rotate: false
-  xy: 444, 83
+  xy: 524, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galley
   rotate: false
-  xy: 484, 119
+  xy: 564, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun
   rotate: false
-  xy: 524, 156
+  xy: 604, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-African
   rotate: false
-  xy: 564, 192
+  xy: 644, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Barbarians
   rotate: false
-  xy: 604, 227
+  xy: 684, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-East Asian
   rotate: false
-  xy: 644, 264
+  xy: 724, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Germanic
   rotate: false
-  xy: 684, 300
+  xy: 764, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Mediterranean
   rotate: false
-  xy: 724, 336
+  xy: 804, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Mesopotamian
   rotate: false
-  xy: 764, 372
+  xy: 4, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Middle Eastern
   rotate: false
-  xy: 804, 408
+  xy: 44, 260
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Nordic
   rotate: false
-  xy: 844, 444
+  xy: 84, 297
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-North American
   rotate: false
-  xy: 884, 480
+  xy: 124, 333
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Oceania
   rotate: false
-  xy: 444, 47
+  xy: 164, 369
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gatling Gun-Slavic
+  rotate: false
+  xy: 204, 405
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-South American
   rotate: false
-  xy: 484, 83
+  xy: 244, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot
   rotate: false
-  xy: 524, 117
+  xy: 284, 475
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-African
   rotate: false
-  xy: 564, 153
+  xy: 324, 510
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Barbarians
   rotate: false
-  xy: 604, 191
+  xy: 364, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-East Asian
   rotate: false
-  xy: 644, 224
+  xy: 404, 581
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Germanic
   rotate: false
-  xy: 684, 264
+  xy: 444, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Mediterranean
   rotate: false
-  xy: 724, 299
+  xy: 484, 655
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Mesopotamian
   rotate: false
-  xy: 764, 336
+  xy: 524, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Middle Eastern
   rotate: false
-  xy: 804, 372
+  xy: 564, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Nordic
   rotate: false
-  xy: 844, 404
+  xy: 604, 761
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-North American
   rotate: false
-  xy: 884, 441
+  xy: 644, 799
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Oceania
   rotate: false
-  xy: 924, 476
+  xy: 684, 834
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Slavic
   rotate: false
-  xy: 684, 224
+  xy: 724, 870
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-South American
   rotate: false
-  xy: 724, 259
+  xy: 764, 906
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral
   rotate: false
-  xy: 764, 297
+  xy: 804, 943
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-East Asian
   rotate: false
-  xy: 804, 333
+  xy: 844, 979
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-Germanic
   rotate: false
-  xy: 844, 365
+  xy: 4, 184
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-Mediterranean
   rotate: false
-  xy: 884, 402
+  xy: 44, 221
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-Mesopotamian
   rotate: false
-  xy: 924, 437
+  xy: 84, 258
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-Middle Eastern
   rotate: false
-  xy: 964, 477
+  xy: 124, 294
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-Nordic
   rotate: false
-  xy: 964, 438
+  xy: 164, 330
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-North American
   rotate: false
-  xy: 484, 47
+  xy: 204, 369
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-Oceania
   rotate: false
-  xy: 524, 81
+  xy: 244, 405
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-South American
   rotate: false
-  xy: 564, 114
+  xy: 284, 436
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist
   rotate: false
-  xy: 604, 155
+  xy: 324, 474
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-African
   rotate: false
-  xy: 644, 188
+  xy: 364, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-East Asian
   rotate: false
-  xy: 764, 261
+  xy: 404, 545
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-Mediterranean
   rotate: false
-  xy: 804, 297
+  xy: 444, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-Mesopotamian
   rotate: false
-  xy: 844, 329
+  xy: 484, 619
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-Middle Eastern
   rotate: false
-  xy: 844, 329
+  xy: 484, 619
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-North American
   rotate: false
-  xy: 884, 366
+  xy: 524, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-Oceania
   rotate: false
-  xy: 924, 401
+  xy: 564, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-South American
   rotate: false
-  xy: 1004, 480
+  xy: 604, 725
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer
   rotate: false
-  xy: 964, 402
+  xy: 644, 763
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-African
   rotate: false
-  xy: 604, 119
+  xy: 684, 798
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-East Asian
   rotate: false
-  xy: 644, 152
+  xy: 724, 834
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-Mediterranean
   rotate: false
-  xy: 684, 188
+  xy: 764, 870
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-Mesopotamian
   rotate: false
-  xy: 724, 223
+  xy: 804, 907
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-Middle Eastern
   rotate: false
-  xy: 724, 223
+  xy: 804, 907
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-North American
   rotate: false
-  xy: 764, 225
+  xy: 844, 943
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-Oceania
   rotate: false
-  xy: 804, 261
+  xy: 884, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-South American
   rotate: false
-  xy: 844, 293
+  xy: 4, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Galleass
   rotate: false
-  xy: 884, 330
+  xy: 44, 185
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General
   rotate: false
-  xy: 924, 362
+  xy: 84, 219
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-African
   rotate: false
-  xy: 1004, 441
+  xy: 124, 255
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-East Asian
   rotate: false
-  xy: 1044, 477
+  xy: 164, 291
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-Germanic
   rotate: false
-  xy: 964, 363
+  xy: 204, 330
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Great General-Industrial era
-  rotate: false
-  xy: 684, 152
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Great General-Mediterranean
   rotate: false
-  xy: 724, 184
+  xy: 244, 366
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-Mesopotamian
   rotate: false
-  xy: 764, 186
+  xy: 284, 397
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-Middle Eastern
   rotate: false
-  xy: 804, 222
+  xy: 324, 435
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Great General-Modern era
+  rotate: false
+  xy: 364, 477
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Great General-Nordic
   rotate: false
-  xy: 844, 254
+  xy: 404, 506
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-North American
   rotate: false
-  xy: 884, 291
+  xy: 444, 546
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-Oceania
   rotate: false
-  xy: 924, 323
+  xy: 484, 580
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great General-Slavic
+  rotate: false
+  xy: 524, 619
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-South American
   rotate: false
-  xy: 1004, 402
+  xy: 564, 655
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant
   rotate: false
-  xy: 1044, 441
+  xy: 604, 689
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-African
   rotate: false
-  xy: 1084, 480
+  xy: 644, 727
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-East Asian
   rotate: false
-  xy: 964, 327
+  xy: 684, 762
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-Mediterranean
   rotate: false
-  xy: 804, 186
+  xy: 724, 798
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-Mesopotamian
   rotate: false
-  xy: 844, 218
+  xy: 764, 834
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-Middle Eastern
   rotate: false
-  xy: 844, 218
+  xy: 764, 834
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-North American
   rotate: false
-  xy: 884, 255
+  xy: 804, 871
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-Oceania
   rotate: false
-  xy: 924, 287
+  xy: 844, 907
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-South American
   rotate: false
-  xy: 1004, 366
+  xy: 884, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician
   rotate: false
-  xy: 1044, 405
+  xy: 924, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-East Asian
   rotate: false
-  xy: 1084, 444
+  xy: 4, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-Mediterranean
   rotate: false
-  xy: 1124, 480
+  xy: 44, 149
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-Mesopotamian
   rotate: false
-  xy: 964, 291
+  xy: 84, 183
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-Middle Eastern
   rotate: false
-  xy: 964, 291
+  xy: 84, 183
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-North American
   rotate: false
-  xy: 884, 219
+  xy: 124, 219
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-Oceania
   rotate: false
-  xy: 924, 251
+  xy: 164, 255
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-South American
   rotate: false
-  xy: 1004, 330
+  xy: 204, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Prophet
   rotate: false
-  xy: 1044, 369
+  xy: 244, 330
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist
   rotate: false
-  xy: 1084, 408
+  xy: 284, 361
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-North American
   rotate: false
-  xy: 1084, 408
+  xy: 284, 361
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-African
   rotate: false
-  xy: 1124, 444
+  xy: 324, 399
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-East Asian
   rotate: false
-  xy: 1164, 480
+  xy: 364, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Mediterranean
   rotate: false
-  xy: 1164, 480
+  xy: 364, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Mesopotamian
   rotate: false
-  xy: 964, 255
+  xy: 404, 470
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Middle Eastern
   rotate: false
-  xy: 964, 255
+  xy: 404, 470
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Oceania
   rotate: false
-  xy: 964, 255
+  xy: 404, 470
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-South American
   rotate: false
-  xy: 964, 255
+  xy: 404, 470
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry
   rotate: false
-  xy: 1004, 294
+  xy: 444, 510
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-African
   rotate: false
-  xy: 1044, 333
+  xy: 484, 544
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Barbarians
   rotate: false
-  xy: 1084, 372
+  xy: 524, 583
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-East Asian
   rotate: false
-  xy: 1124, 408
+  xy: 564, 619
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Germanic
   rotate: false
-  xy: 1164, 444
+  xy: 604, 653
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Mediterranean
   rotate: false
-  xy: 1204, 480
+  xy: 644, 691
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Mesopotamian
   rotate: false
-  xy: 1004, 258
+  xy: 684, 726
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Middle Eastern
   rotate: false
-  xy: 1044, 297
+  xy: 724, 762
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Nordic
   rotate: false
-  xy: 1084, 336
+  xy: 764, 798
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-North American
   rotate: false
-  xy: 1124, 372
+  xy: 804, 835
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Oceania
   rotate: false
-  xy: 1164, 408
+  xy: 844, 871
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great War Infantry-Slavic
+  rotate: false
+  xy: 884, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-South American
   rotate: false
-  xy: 1204, 444
+  xy: 924, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer
   rotate: false
-  xy: 1244, 480
+  xy: 964, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer-East Asian
   rotate: false
-  xy: 1044, 261
+  xy: 4, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer-Mediterranean
   rotate: false
-  xy: 1084, 300
+  xy: 44, 113
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer-Mesopotamian
   rotate: false
-  xy: 1124, 336
+  xy: 84, 147
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer-Middle Eastern
   rotate: false
-  xy: 1124, 336
+  xy: 84, 147
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer-North American
   rotate: false
-  xy: 1164, 372
+  xy: 124, 183
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer-Oceania
   rotate: false
-  xy: 1204, 408
+  xy: 164, 219
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer-South American
   rotate: false
-  xy: 1244, 444
+  xy: 204, 258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hakkapeliitta
   rotate: false
-  xy: 1284, 480
+  xy: 244, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hand Axe
   rotate: false
-  xy: 1084, 264
+  xy: 284, 325
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship
   rotate: false
-  xy: 1124, 300
+  xy: 324, 363
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-African
   rotate: false
-  xy: 1164, 336
+  xy: 364, 405
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Barbarians
   rotate: false
-  xy: 1204, 372
+  xy: 404, 434
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-East Asian
   rotate: false
-  xy: 1244, 408
+  xy: 444, 474
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Germanic
   rotate: false
-  xy: 1284, 444
+  xy: 484, 508
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Mediterranean
   rotate: false
-  xy: 1324, 480
+  xy: 524, 547
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Mesopotamian
   rotate: false
-  xy: 1124, 264
+  xy: 564, 583
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Middle Eastern
   rotate: false
-  xy: 1164, 300
+  xy: 604, 617
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Nordic
   rotate: false
-  xy: 1204, 336
+  xy: 644, 655
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-North American
   rotate: false
-  xy: 1244, 372
+  xy: 684, 690
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Oceania
   rotate: false
-  xy: 1284, 408
+  xy: 724, 726
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Slavic
   rotate: false
-  xy: 1324, 444
+  xy: 764, 762
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-South American
   rotate: false
-  xy: 1364, 480
+  xy: 804, 799
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hoplite
   rotate: false
-  xy: 1164, 264
+  xy: 844, 835
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horse Archer
   rotate: false
-  xy: 1204, 300
+  xy: 884, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman
   rotate: false
-  xy: 1244, 336
+  xy: 924, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-African
   rotate: false
-  xy: 1284, 372
+  xy: 964, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Barbarians
   rotate: false
-  xy: 1324, 408
+  xy: 1004, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-East Asian
   rotate: false
-  xy: 1364, 444
+  xy: 4, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Germanic
   rotate: false
-  xy: 1404, 479
+  xy: 44, 76
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Mediterranean
   rotate: false
-  xy: 1444, 479
+  xy: 84, 110
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Mesopotamian
   rotate: false
-  xy: 1204, 264
+  xy: 124, 147
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Middle Eastern
   rotate: false
-  xy: 1244, 300
+  xy: 164, 183
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Nordic
   rotate: false
-  xy: 1284, 335
+  xy: 204, 221
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-North American
   rotate: false
-  xy: 1324, 371
+  xy: 244, 257
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Oceania
   rotate: false
-  xy: 1364, 407
+  xy: 284, 288
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-Slavic
+  rotate: false
+  xy: 324, 326
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-South American
   rotate: false
-  xy: 1404, 442
+  xy: 364, 368
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hussar
   rotate: false
-  xy: 1484, 479
+  xy: 404, 397
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hwach'a
   rotate: false
-  xy: 1244, 264
+  xy: 444, 438
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Immortal
   rotate: false
-  xy: 1284, 299
+  xy: 484, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Impi
   rotate: false
-  xy: 1324, 335
+  xy: 524, 511
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry
   rotate: false
-  xy: 1364, 371
+  xy: 564, 547
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-African
   rotate: false
-  xy: 1404, 406
+  xy: 604, 581
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Barbarians
   rotate: false
-  xy: 1444, 443
+  xy: 644, 619
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-East Asian
   rotate: false
-  xy: 1524, 480
+  xy: 684, 654
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Germanic
   rotate: false
-  xy: 1324, 299
+  xy: 724, 690
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Mediterranean
   rotate: false
-  xy: 1364, 335
+  xy: 764, 726
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Mesopotamian
   rotate: false
-  xy: 1404, 370
+  xy: 804, 763
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Middle Eastern
   rotate: false
-  xy: 1444, 407
+  xy: 844, 799
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Nordic
   rotate: false
-  xy: 1484, 443
+  xy: 884, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-North American
   rotate: false
-  xy: 1524, 444
+  xy: 924, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Oceania
   rotate: false
-  xy: 1564, 480
+  xy: 964, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Slavic
   rotate: false
-  xy: 1364, 299
+  xy: 1004, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-South American
   rotate: false
-  xy: 1404, 334
+  xy: 1044, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ironclad
   rotate: false
-  xy: 1444, 371
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jaguar
   rotate: false
-  xy: 1484, 407
+  xy: 44, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Janissary
   rotate: false
-  xy: 1524, 408
+  xy: 84, 74
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Keshik
   rotate: false
-  xy: 1564, 444
+  xy: 124, 111
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Khan
   rotate: false
-  xy: 1604, 477
+  xy: 164, 144
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight
   rotate: false
-  xy: 1444, 335
+  xy: 204, 185
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-African
   rotate: false
-  xy: 1484, 370
+  xy: 244, 220
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Barbarians
   rotate: false
-  xy: 1524, 372
+  xy: 284, 252
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-East Asian
   rotate: false
-  xy: 1564, 408
+  xy: 324, 290
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Germanic
   rotate: false
-  xy: 1604, 440
+  xy: 364, 331
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Mediterranean
   rotate: false
-  xy: 1644, 479
+  xy: 404, 360
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Mesopotamian
   rotate: false
-  xy: 1644, 442
+  xy: 444, 401
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Middle Eastern
   rotate: false
-  xy: 1684, 479
+  xy: 484, 435
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Nordic
   rotate: false
-  xy: 1684, 442
+  xy: 524, 474
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-North American
   rotate: false
-  xy: 1724, 479
+  xy: 564, 510
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Oceania
   rotate: false
-  xy: 1724, 442
+  xy: 604, 544
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-Slavic
+  rotate: false
+  xy: 644, 582
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-South American
   rotate: false
-  xy: 1764, 478
+  xy: 684, 616
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kris Swordsman
   rotate: false
-  xy: 1564, 372
+  xy: 724, 654
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer
   rotate: false
-  xy: 1604, 404
+  xy: 764, 690
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-African
   rotate: false
-  xy: 1644, 406
+  xy: 804, 727
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Barbarians
   rotate: false
-  xy: 1804, 479
+  xy: 844, 762
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-East Asian
   rotate: false
-  xy: 1844, 479
+  xy: 884, 801
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Germanic
   rotate: false
-  xy: 1764, 442
+  xy: 924, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Mediterranean
   rotate: false
-  xy: 1684, 406
+  xy: 964, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Mesopotamian
   rotate: false
-  xy: 1804, 443
+  xy: 1004, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Middle Eastern
   rotate: false
-  xy: 1884, 480
+  xy: 1044, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Nordic
   rotate: false
-  xy: 1724, 406
+  xy: 1084, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-North American
   rotate: false
-  xy: 1844, 442
+  xy: 124, 74
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Oceania
   rotate: false
-  xy: 1884, 443
+  xy: 164, 107
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Lancer-Slavic
+  rotate: false
+  xy: 44, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Lancer-South American
   rotate: false
-  xy: 1924, 479
+  xy: 84, 37
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship
   rotate: false
-  xy: 1764, 406
+  xy: 204, 149
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-African
   rotate: false
-  xy: 1804, 407
+  xy: 244, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Barbarians
   rotate: false
-  xy: 1924, 443
+  xy: 284, 216
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-East Asian
   rotate: false
-  xy: 1964, 480
+  xy: 324, 254
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Germanic
   rotate: false
-  xy: 1964, 444
+  xy: 364, 295
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Mediterranean
   rotate: false
-  xy: 2004, 480
+  xy: 404, 324
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Mesopotamian
   rotate: false
-  xy: 2004, 444
+  xy: 444, 365
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Middle Eastern
   rotate: false
-  xy: 244, 10
+  xy: 484, 399
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Nordic
   rotate: false
-  xy: 284, 10
+  xy: 524, 438
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-North American
   rotate: false
-  xy: 324, 11
+  xy: 564, 474
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Oceania
   rotate: false
-  xy: 364, 11
+  xy: 604, 508
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Slavic
   rotate: false
-  xy: 404, 11
+  xy: 644, 546
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-South American
   rotate: false
-  xy: 444, 11
+  xy: 684, 580
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landsknecht
   rotate: false
-  xy: 484, 11
+  xy: 724, 618
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Legion
   rotate: false
-  xy: 524, 45
+  xy: 764, 654
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longbowman
   rotate: false
-  xy: 564, 78
+  xy: 804, 691
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman
   rotate: false
-  xy: 604, 83
+  xy: 844, 726
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-African
   rotate: false
-  xy: 644, 116
+  xy: 884, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Barbarians
   rotate: false
-  xy: 684, 116
+  xy: 924, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-East Asian
   rotate: false
-  xy: 724, 148
+  xy: 964, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Germanic
   rotate: false
-  xy: 764, 150
+  xy: 1004, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Mediterranean
   rotate: false
-  xy: 804, 150
+  xy: 1044, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Mesopotamian
   rotate: false
-  xy: 844, 182
+  xy: 1084, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Middle Eastern
   rotate: false
-  xy: 884, 183
+  xy: 1124, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Nordic
   rotate: false
-  xy: 924, 215
+  xy: 124, 38
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-North American
   rotate: false
-  xy: 964, 219
+  xy: 164, 71
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Oceania
   rotate: false
-  xy: 1004, 222
+  xy: 204, 113
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-Slavic
+  rotate: false
+  xy: 244, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-South American
   rotate: false
-  xy: 1044, 225
+  xy: 284, 180
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun
   rotate: false
-  xy: 1084, 228
+  xy: 324, 218
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-African
   rotate: false
-  xy: 1124, 228
+  xy: 364, 259
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Barbarians
   rotate: false
-  xy: 1164, 228
+  xy: 404, 288
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-East Asian
   rotate: false
-  xy: 1204, 228
+  xy: 444, 329
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Germanic
   rotate: false
-  xy: 1244, 228
+  xy: 484, 363
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Mediterranean
   rotate: false
-  xy: 1284, 263
+  xy: 524, 402
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Mesopotamian
   rotate: false
-  xy: 1324, 263
+  xy: 564, 438
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Middle Eastern
   rotate: false
-  xy: 1364, 263
+  xy: 604, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Nordic
   rotate: false
-  xy: 1404, 298
+  xy: 644, 510
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-North American
   rotate: false
-  xy: 1444, 299
+  xy: 684, 544
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Oceania
   rotate: false
-  xy: 1484, 334
+  xy: 724, 582
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Slavic
   rotate: false
-  xy: 1524, 336
+  xy: 764, 618
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-South American
   rotate: false
-  xy: 1564, 336
+  xy: 804, 655
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mandekalu Cavalry
   rotate: false
-  xy: 1604, 368
+  xy: 844, 690
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Maori Warrior
   rotate: false
-  xy: 1644, 370
+  xy: 884, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine
   rotate: false
-  xy: 1684, 370
+  xy: 924, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-African
   rotate: false
-  xy: 1724, 370
+  xy: 964, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Barbarians
   rotate: false
-  xy: 1764, 370
+  xy: 1004, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-East Asian
   rotate: false
-  xy: 1804, 371
+  xy: 1044, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Germanic
   rotate: false
-  xy: 1844, 406
+  xy: 1084, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Mediterranean
   rotate: false
-  xy: 1884, 407
+  xy: 1124, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Mesopotamian
   rotate: false
-  xy: 1924, 407
+  xy: 1164, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Middle Eastern
   rotate: false
-  xy: 1964, 408
+  xy: 204, 77
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Nordic
   rotate: false
-  xy: 2004, 408
+  xy: 244, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-North American
   rotate: false
-  xy: 1284, 227
+  xy: 284, 144
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Oceania
   rotate: false
-  xy: 1324, 227
+  xy: 324, 182
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Slavic
   rotate: false
-  xy: 1364, 227
+  xy: 364, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-South American
   rotate: false
-  xy: 1404, 262
+  xy: 404, 252
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry
   rotate: false
-  xy: 1444, 263
+  xy: 444, 293
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-African
   rotate: false
-  xy: 1484, 298
+  xy: 484, 327
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Barbarians
   rotate: false
-  xy: 1524, 300
+  xy: 524, 366
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-East Asian
   rotate: false
-  xy: 1564, 300
+  xy: 564, 402
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Germanic
   rotate: false
-  xy: 1604, 332
+  xy: 604, 436
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Mediterranean
   rotate: false
-  xy: 1644, 334
+  xy: 644, 474
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Mesopotamian
   rotate: false
-  xy: 1684, 334
+  xy: 684, 508
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Middle Eastern
   rotate: false
-  xy: 1724, 334
+  xy: 724, 546
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Nordic
   rotate: false
-  xy: 1764, 334
+  xy: 764, 582
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-North American
   rotate: false
-  xy: 1804, 335
+  xy: 804, 619
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Oceania
   rotate: false
-  xy: 1844, 370
+  xy: 844, 654
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Slavic
   rotate: false
-  xy: 1884, 371
+  xy: 884, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-South American
   rotate: false
-  xy: 1924, 371
+  xy: 924, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mehal Sefari
   rotate: false
-  xy: 1964, 372
+  xy: 964, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Merchant Of Venice
   rotate: false
-  xy: 2004, 372
+  xy: 1004, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Minuteman
   rotate: false
-  xy: 1404, 226
+  xy: 1044, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missile Cruiser
   rotate: false
-  xy: 1444, 227
+  xy: 1084, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM
   rotate: false
-  xy: 1484, 262
+  xy: 1124, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-African
   rotate: false
-  xy: 1524, 264
+  xy: 1164, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Barbarians
   rotate: false
-  xy: 1564, 264
+  xy: 1204, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-East Asian
   rotate: false
-  xy: 1604, 296
+  xy: 324, 146
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Germanic
   rotate: false
-  xy: 1644, 298
+  xy: 364, 187
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Mediterranean
   rotate: false
-  xy: 1684, 298
+  xy: 404, 216
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Mesopotamian
   rotate: false
-  xy: 1724, 298
+  xy: 444, 257
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Middle Eastern
   rotate: false
-  xy: 1764, 298
+  xy: 484, 291
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Nordic
   rotate: false
-  xy: 1804, 299
+  xy: 524, 330
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-North American
   rotate: false
-  xy: 1844, 334
+  xy: 564, 366
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Oceania
   rotate: false
-  xy: 1884, 335
+  xy: 604, 400
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Slavic
   rotate: false
-  xy: 1924, 335
+  xy: 644, 438
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-South American
   rotate: false
-  xy: 1964, 336
+  xy: 684, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor
   rotate: false
-  xy: 2004, 336
+  xy: 724, 510
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-African
   rotate: false
-  xy: 1484, 226
+  xy: 764, 546
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Barbarians
   rotate: false
-  xy: 1524, 228
+  xy: 804, 583
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-East Asian
   rotate: false
-  xy: 1564, 228
+  xy: 844, 618
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Germanic
   rotate: false
-  xy: 1604, 260
+  xy: 884, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Mediterranean
   rotate: false
-  xy: 1644, 262
+  xy: 924, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Mesopotamian
   rotate: false
-  xy: 1684, 262
+  xy: 964, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Middle Eastern
   rotate: false
-  xy: 1724, 262
+  xy: 1004, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Nordic
   rotate: false
-  xy: 1764, 262
+  xy: 1044, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-North American
   rotate: false
-  xy: 1804, 263
+  xy: 1084, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Oceania
   rotate: false
-  xy: 1844, 298
+  xy: 1124, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Slavic
   rotate: false
-  xy: 1884, 299
+  xy: 1164, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-South American
   rotate: false
-  xy: 1924, 299
+  xy: 1204, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armour
   rotate: false
-  xy: 1964, 300
+  xy: 1244, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mohawk Warrior
   rotate: false
-  xy: 2004, 300
+  xy: 364, 151
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketeer
   rotate: false
-  xy: 1844, 262
+  xy: 404, 180
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman
   rotate: false
-  xy: 1884, 263
+  xy: 444, 221
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-African
   rotate: false
-  xy: 1924, 263
+  xy: 484, 255
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Barbarians
   rotate: false
-  xy: 1964, 264
+  xy: 524, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-East Asian
   rotate: false
-  xy: 2004, 264
+  xy: 564, 330
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Germanic
   rotate: false
-  xy: 524, 9
+  xy: 604, 364
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Mediterranean
   rotate: false
-  xy: 564, 42
+  xy: 644, 402
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Mesopotamian
   rotate: false
-  xy: 604, 47
+  xy: 684, 436
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Middle Eastern
   rotate: false
-  xy: 644, 80
+  xy: 724, 474
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Nordic
   rotate: false
-  xy: 684, 80
+  xy: 764, 510
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-North American
   rotate: false
-  xy: 724, 112
+  xy: 804, 547
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Oceania
   rotate: false
-  xy: 764, 114
+  xy: 844, 582
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-Slavic
+  rotate: false
+  xy: 884, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-South American
   rotate: false
-  xy: 804, 114
+  xy: 924, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Naresuan's Elephant
   rotate: false
-  xy: 844, 146
+  xy: 964, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nau
   rotate: false
-  xy: 884, 147
+  xy: 1004, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Norwegian Ski Infantry
   rotate: false
-  xy: 924, 179
+  xy: 1044, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nuclear Submarine
   rotate: false
-  xy: 964, 182
+  xy: 1084, 801
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Panzer
   rotate: false
-  xy: 1004, 186
+  xy: 1124, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper
   rotate: false
-  xy: 1044, 189
+  xy: 1164, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Mediterranean
   rotate: false
-  xy: 1044, 189
+  xy: 1164, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-African
   rotate: false
-  xy: 1084, 192
+  xy: 1204, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Barbarians
   rotate: false
-  xy: 1124, 192
+  xy: 1244, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-East Asian
   rotate: false
-  xy: 1164, 192
+  xy: 1284, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Germanic
   rotate: false
-  xy: 1204, 192
+  xy: 444, 185
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Mesopotamian
   rotate: false
-  xy: 1244, 192
+  xy: 484, 219
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Middle Eastern
   rotate: false
-  xy: 1284, 191
+  xy: 524, 258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Nordic
   rotate: false
-  xy: 1324, 191
+  xy: 564, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-North American
   rotate: false
-  xy: 1364, 191
+  xy: 604, 328
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Oceania
   rotate: false
-  xy: 1404, 190
+  xy: 644, 366
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Slavic
   rotate: false
-  xy: 1444, 191
+  xy: 684, 400
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-South American
   rotate: false
-  xy: 1484, 190
+  xy: 724, 438
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pathfinder
   rotate: false
-  xy: 1524, 192
+  xy: 764, 474
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Persian Immortal
   rotate: false
-  xy: 1564, 192
+  xy: 804, 511
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pictish Warrior
   rotate: false
-  xy: 1604, 224
+  xy: 844, 546
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman
   rotate: false
-  xy: 1644, 226
+  xy: 884, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-African
   rotate: false
-  xy: 1684, 226
+  xy: 924, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Barbarians
   rotate: false
-  xy: 1724, 226
+  xy: 964, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-East Asian
   rotate: false
-  xy: 1764, 226
+  xy: 1004, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Germanic
   rotate: false
-  xy: 1804, 227
+  xy: 1044, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Mediterranean
   rotate: false
-  xy: 1844, 226
+  xy: 1084, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Mesopotamian
   rotate: false
-  xy: 1884, 227
+  xy: 1124, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Middle Eastern
   rotate: false
-  xy: 1924, 227
+  xy: 1164, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Nordic
   rotate: false
-  xy: 1964, 228
+  xy: 1204, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-North American
   rotate: false
-  xy: 2004, 228
+  xy: 1244, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Oceania
   rotate: false
-  xy: 564, 6
+  xy: 1284, 946
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pikeman-Slavic
+  rotate: false
+  xy: 1324, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-South American
   rotate: false
-  xy: 604, 11
+  xy: 524, 222
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pracinha
   rotate: false
-  xy: 644, 44
+  xy: 564, 258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer
   rotate: false
-  xy: 684, 44
+  xy: 604, 292
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-African
   rotate: false
-  xy: 724, 76
+  xy: 644, 330
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Barbarians
   rotate: false
-  xy: 764, 78
+  xy: 684, 364
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-East Asian
   rotate: false
-  xy: 804, 78
+  xy: 724, 402
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Germanic
   rotate: false
-  xy: 844, 110
+  xy: 764, 438
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Mediterranean
   rotate: false
-  xy: 884, 111
+  xy: 804, 475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Mesopotamian
   rotate: false
-  xy: 924, 143
+  xy: 844, 510
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Middle Eastern
   rotate: false
-  xy: 964, 146
+  xy: 884, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Nordic
   rotate: false
-  xy: 1004, 150
+  xy: 924, 586
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-North American
   rotate: false
-  xy: 1044, 153
+  xy: 964, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Oceania
   rotate: false
-  xy: 1084, 156
+  xy: 1004, 658
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Privateer-Slavic
+  rotate: false
+  xy: 1044, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-South American
   rotate: false
-  xy: 1124, 156
+  xy: 1084, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Quinquereme
   rotate: false
-  xy: 1164, 156
+  xy: 1124, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman
   rotate: false
-  xy: 1204, 156
+  xy: 1164, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-African
   rotate: false
-  xy: 1244, 156
+  xy: 1204, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Barbarians
   rotate: false
-  xy: 1284, 155
+  xy: 1244, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-East Asian
   rotate: false
-  xy: 1324, 155
+  xy: 1284, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Germanic
   rotate: false
-  xy: 1364, 155
+  xy: 1324, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Mediterranean
   rotate: false
-  xy: 1404, 154
+  xy: 1364, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Mesopotamian
   rotate: false
-  xy: 1444, 155
+  xy: 564, 222
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Middle Eastern
   rotate: false
-  xy: 1484, 154
+  xy: 604, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Nordic
   rotate: false
-  xy: 1524, 156
+  xy: 644, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-North American
   rotate: false
-  xy: 1564, 156
+  xy: 684, 328
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Oceania
   rotate: false
-  xy: 1604, 188
+  xy: 724, 366
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-Slavic
+  rotate: false
+  xy: 764, 402
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-South American
   rotate: false
-  xy: 1644, 190
+  xy: 804, 439
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery
   rotate: false
-  xy: 1684, 190
+  xy: 844, 474
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery (template)
   rotate: false
-  xy: 1724, 190
+  xy: 884, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-African
   rotate: false
-  xy: 1764, 190
+  xy: 924, 550
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Barbarians
   rotate: false
-  xy: 1804, 191
+  xy: 964, 586
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-East Asian
   rotate: false
-  xy: 1844, 190
+  xy: 1004, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Germanic
   rotate: false
-  xy: 1884, 191
+  xy: 1044, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Mediterranean
   rotate: false
-  xy: 1924, 191
+  xy: 1084, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Mesopotamian
   rotate: false
-  xy: 1964, 192
+  xy: 1124, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Middle Eastern
   rotate: false
-  xy: 2004, 192
+  xy: 1164, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Nordic
   rotate: false
-  xy: 644, 8
+  xy: 1204, 802
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-North American
   rotate: false
-  xy: 684, 8
+  xy: 1244, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Oceania
   rotate: false
-  xy: 724, 40
+  xy: 1284, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Slavic
   rotate: false
-  xy: 724, 4
+  xy: 1324, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-South American
   rotate: false
-  xy: 764, 42
+  xy: 1364, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Samurai
   rotate: false
-  xy: 764, 6
+  xy: 1404, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout
   rotate: false
-  xy: 804, 42
+  xy: 644, 258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-African
   rotate: false
-  xy: 844, 74
+  xy: 684, 292
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Barbarians
   rotate: false
-  xy: 884, 75
+  xy: 724, 330
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-East Asian
   rotate: false
-  xy: 924, 107
+  xy: 764, 366
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Germanic
   rotate: false
-  xy: 964, 110
+  xy: 804, 403
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Mediterranean
   rotate: false
-  xy: 1004, 114
+  xy: 844, 438
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Mesopotamian
   rotate: false
-  xy: 1044, 117
+  xy: 884, 477
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Middle Eastern
   rotate: false
-  xy: 1084, 120
+  xy: 924, 514
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Nordic
   rotate: false
-  xy: 804, 6
+  xy: 964, 550
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout-Slavic
+  rotate: false
+  xy: 964, 550
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-North American
   rotate: false
-  xy: 844, 38
+  xy: 1004, 586
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Oceania
   rotate: false
-  xy: 884, 39
+  xy: 1044, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-South American
   rotate: false
-  xy: 924, 71
+  xy: 1084, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sea Beggar
   rotate: false
-  xy: 964, 74
+  xy: 1124, 694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler
   rotate: false
-  xy: 1004, 77
+  xy: 1164, 729
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-African
   rotate: false
-  xy: 1044, 80
+  xy: 1204, 765
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Barbarians
   rotate: false
-  xy: 1084, 83
+  xy: 1244, 801
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-East Asian
   rotate: false
-  xy: 1124, 119
+  xy: 1284, 837
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Germanic
   rotate: false
-  xy: 1164, 119
+  xy: 1324, 873
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Mediterranean
   rotate: false
-  xy: 1204, 119
+  xy: 1364, 909
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Mesopotamian
   rotate: false
-  xy: 1244, 119
+  xy: 1404, 945
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Middle Eastern
   rotate: false
-  xy: 1124, 82
+  xy: 1444, 981
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Settler-Modern era
+  rotate: false
+  xy: 724, 294
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-Modern era-Barbarians
+  rotate: false
+  xy: 764, 330
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Settler-Nordic
   rotate: false
-  xy: 1164, 82
+  xy: 804, 366
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-North American
   rotate: false
-  xy: 1204, 82
+  xy: 844, 401
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Oceania
   rotate: false
-  xy: 1244, 82
+  xy: 884, 440
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-Slavic
+  rotate: false
+  xy: 924, 477
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-South American
   rotate: false
-  xy: 1284, 118
+  xy: 964, 513
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ship of the Line
   rotate: false
-  xy: 1284, 82
+  xy: 1004, 550
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Siege Tower
   rotate: false
-  xy: 1324, 119
+  xy: 1044, 586
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sipahi
   rotate: false
-  xy: 1324, 81
+  xy: 1084, 619
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slinger
   rotate: false
-  xy: 1364, 119
+  xy: 1124, 658
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/South Asian
+  rotate: false
+  xy: 1164, 693
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-East Asian-Modern era
+  rotate: false
+  xy: 1164, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman
   rotate: false
-  xy: 1364, 83
+  xy: 1204, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-African
   rotate: false
-  xy: 1404, 118
+  xy: 1244, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Barbarians
   rotate: false
-  xy: 1444, 119
+  xy: 1284, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-East Asian
   rotate: false
-  xy: 1404, 82
+  xy: 1324, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Germanic
   rotate: false
-  xy: 1444, 83
+  xy: 1364, 873
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Mediterranean
   rotate: false
-  xy: 1484, 118
+  xy: 1404, 909
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Mesopotamian
   rotate: false
-  xy: 1524, 120
+  xy: 1444, 945
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Middle Eastern
   rotate: false
-  xy: 1564, 120
+  xy: 1484, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Nordic
   rotate: false
-  xy: 1604, 152
+  xy: 764, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-North American
   rotate: false
-  xy: 1644, 154
+  xy: 804, 330
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Oceania
   rotate: false
-  xy: 1684, 154
+  xy: 844, 365
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-Slavic
+  rotate: false
+  xy: 884, 404
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-South American
   rotate: false
-  xy: 1724, 154
+  xy: 924, 441
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Submarine
+  rotate: false
+  xy: 964, 476
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Swordsman
   rotate: false
-  xy: 1764, 154
+  xy: 1004, 514
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-African
   rotate: false
-  xy: 1804, 155
+  xy: 1044, 550
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Barbarians
   rotate: false
-  xy: 1484, 82
+  xy: 1084, 583
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-East Asian
   rotate: false
-  xy: 1524, 84
+  xy: 1124, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Germanic
   rotate: false
-  xy: 1564, 84
+  xy: 1164, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Mediterranean
   rotate: false
-  xy: 1604, 116
+  xy: 1204, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Mesopotamian
   rotate: false
-  xy: 1644, 118
+  xy: 1244, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Middle Eastern
   rotate: false
-  xy: 1684, 118
+  xy: 1284, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Nordic
   rotate: false
-  xy: 1724, 118
+  xy: 1324, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-North American
   rotate: false
-  xy: 1764, 118
+  xy: 1364, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-South American
   rotate: false
-  xy: 1764, 118
+  xy: 1364, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Oceania
   rotate: false
-  xy: 1804, 119
+  xy: 1404, 873
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-Slavic
+  rotate: false
+  xy: 1444, 909
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank
   rotate: false
-  xy: 1844, 154
+  xy: 1484, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-African
   rotate: false
-  xy: 1884, 155
+  xy: 1524, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Barbarians
   rotate: false
-  xy: 1924, 155
+  xy: 804, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-East Asian
   rotate: false
-  xy: 1964, 156
+  xy: 844, 329
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Germanic
   rotate: false
-  xy: 2004, 156
+  xy: 884, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Mediterranean
   rotate: false
-  xy: 1844, 118
+  xy: 924, 405
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Mesopotamian
   rotate: false
-  xy: 1884, 119
+  xy: 964, 440
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Middle Eastern
   rotate: false
-  xy: 1924, 119
+  xy: 1004, 478
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Nordic
   rotate: false
-  xy: 1964, 120
+  xy: 1044, 514
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-North American
   rotate: false
-  xy: 2004, 120
+  xy: 1084, 547
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Oceania
   rotate: false
-  xy: 924, 35
+  xy: 1124, 586
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Slavic
   rotate: false
-  xy: 964, 38
+  xy: 1164, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-South American
   rotate: false
-  xy: 1004, 41
+  xy: 1204, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tercio
   rotate: false
-  xy: 1044, 44
+  xy: 1244, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trebuchet
   rotate: false
-  xy: 1084, 47
+  xy: 1284, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme
   rotate: false
-  xy: 1124, 46
+  xy: 1324, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-African
   rotate: false
-  xy: 1164, 46
+  xy: 1364, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Barbarians
   rotate: false
-  xy: 1204, 46
+  xy: 1404, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-East Asian
   rotate: false
-  xy: 1244, 46
+  xy: 1444, 873
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Mediterranean
   rotate: false
-  xy: 1284, 46
+  xy: 1484, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Mesopotamian
   rotate: false
-  xy: 1324, 45
+  xy: 1524, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Middle Eastern
   rotate: false
-  xy: 1364, 47
+  xy: 1564, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Nordic
   rotate: false
-  xy: 1404, 46
+  xy: 884, 332
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-North American
   rotate: false
-  xy: 1444, 47
+  xy: 924, 369
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Oceania
   rotate: false
-  xy: 1484, 46
+  xy: 964, 404
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trireme-Slavic
+  rotate: false
+  xy: 1004, 442
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-South American
   rotate: false
-  xy: 1524, 48
+  xy: 1044, 478
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Turtle Ship
   rotate: false
-  xy: 1564, 48
+  xy: 1084, 511
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/War Chariot
   rotate: false
-  xy: 1604, 80
+  xy: 1124, 550
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/War Elephant
   rotate: false
-  xy: 1644, 82
+  xy: 1164, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior
   rotate: false
-  xy: 1684, 82
+  xy: 1204, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-African
   rotate: false
-  xy: 1724, 82
+  xy: 1244, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Barbarians
   rotate: false
-  xy: 1764, 82
+  xy: 1284, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-East Asian
   rotate: false
-  xy: 1804, 83
+  xy: 1324, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Germanic
   rotate: false
-  xy: 1844, 82
+  xy: 1364, 765
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Mediterranean
   rotate: false
-  xy: 1884, 83
+  xy: 1404, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Mesopotamian
   rotate: false
-  xy: 1924, 83
+  xy: 1444, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Middle Eastern
   rotate: false
-  xy: 1964, 84
+  xy: 1484, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Nordic
   rotate: false
-  xy: 2004, 84
+  xy: 1524, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-North American
   rotate: false
-  xy: 1604, 44
+  xy: 1564, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Oceania
   rotate: false
-  xy: 1644, 46
+  xy: 1604, 982
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Slavic
+  rotate: false
+  xy: 924, 333
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-South American
   rotate: false
-  xy: 1684, 46
+  xy: 964, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Winged Hussar
   rotate: false
-  xy: 1724, 46
+  xy: 1004, 406
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats
   rotate: false
-  xy: 1764, 46
+  xy: 1044, 442
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Mediterranean
   rotate: false
-  xy: 1764, 46
+  xy: 1044, 442
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-East Asian
   rotate: false
-  xy: 1804, 47
+  xy: 1084, 475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Mesopotamian
   rotate: false
-  xy: 1844, 46
+  xy: 1124, 514
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Middle Eastern
   rotate: false
-  xy: 1844, 46
+  xy: 1124, 514
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Work Boats-Modern era
+  rotate: false
+  xy: 1164, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Nordic
   rotate: false
-  xy: 1884, 47
+  xy: 1204, 585
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Work Boats-Slavic
+  rotate: false
+  xy: 1204, 585
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-North American
   rotate: false
-  xy: 1924, 47
+  xy: 1244, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Oceania
   rotate: false
-  xy: 1964, 48
+  xy: 1284, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-South American
   rotate: false
-  xy: 2004, 48
+  xy: 1324, 693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker
   rotate: false
-  xy: 1084, 11
+  xy: 1364, 729
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-African
   rotate: false
-  xy: 1044, 8
+  xy: 1404, 765
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-African-Modern era
+  rotate: false
+  xy: 1444, 801
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Barbarians
   rotate: false
-  xy: 1004, 5
+  xy: 1484, 838
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Barbarians-Modern era
+  rotate: false
+  xy: 1484, 838
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-East Asian
   rotate: false
-  xy: 1124, 10
+  xy: 1524, 874
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Germanic
   rotate: false
-  xy: 1164, 10
+  xy: 1564, 910
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Mediterranean
   rotate: false
-  xy: 1204, 10
+  xy: 1604, 946
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Mesopotamian
   rotate: false
-  xy: 1244, 10
+  xy: 1644, 982
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Mesopotamian-Modern era
+  rotate: false
+  xy: 1004, 370
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Middle Eastern-Modern era
+  rotate: false
+  xy: 1004, 370
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Oceania-Modern era
+  rotate: false
+  xy: 1004, 370
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-South American-Modern era
+  rotate: false
+  xy: 1004, 370
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Middle Eastern
   rotate: false
-  xy: 1284, 10
+  xy: 1044, 406
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Modern era
+  rotate: false
+  xy: 1084, 439
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Nordic
   rotate: false
-  xy: 1324, 9
+  xy: 1124, 478
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Nordic-Modern era
+  rotate: false
+  xy: 1164, 513
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Slavic-Modern era
+  rotate: false
+  xy: 1164, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-North American
   rotate: false
-  xy: 1364, 11
+  xy: 1204, 549
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Oceania
   rotate: false
-  xy: 1404, 10
+  xy: 1244, 585
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Slavic
+  rotate: false
+  xy: 1284, 621
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-South American
   rotate: false
-  xy: 1444, 11
+  xy: 1324, 657
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
