@@ -19,13 +19,12 @@ Right now, this mod added unit sprites of the following styles:
 
 > Nordic,
 
-> African
+> African, 
 
-
+> Slavic
 
 
 And here are the upcoming styles:
-> Slavic,
 
 > South Asian
 
